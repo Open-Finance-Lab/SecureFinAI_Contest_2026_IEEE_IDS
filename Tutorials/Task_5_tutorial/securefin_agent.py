@@ -63,7 +63,16 @@ class MLClient:
 class AlpacaTrader:
     """Client for Alpaca Paper Trading"""
     
-    def __init__(self, api_key="PKS7VQVXN4KGDCOEO656XK7QYY", secret_key="HJW9fPTNcjDavkBAWiBXETp5ouMTd16S3vqWhydieZ36"):
+    def __init__(self, api_key=None, secret_key=None):
+        # Use environment variables if not provided
+        api_key = api_key or os.getenv("ALPACA_API_KEY", "")
+        secret_key = secret_key or os.getenv("ALPACA_SECRET_KEY", "")
+        
+        if not api_key or not secret_key:
+            print("⚠️ Alpaca credentials not set (use ALPACA_API_KEY, ALPACA_SECRET_KEY env)")
+            self.connected = False
+            return
+        
         try:
             from alpaca.trading.client import TradingClient
             from alpaca.trading.requests import MarketOrderRequest
@@ -259,8 +268,8 @@ class NewsClient:
 class NOFXClient:
     """Client for NOFX API data"""
     
-    def __init__(self, api_key="cm_568c67eae410d912c54c"):
-        self.api_key = api_key
+    def __init__(self, api_key=None):
+        self.api_key = api_key or os.getenv("NOFX_API_KEY", "")
         self.base_url = "https://nofxos.ai/api"
         self.cache = {}
     

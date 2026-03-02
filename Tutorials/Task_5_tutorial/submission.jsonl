@@ -1,0 +1,5 @@
+{"date": "2026-03-02", "asset": "BTC", "action": "Hold", "rationale": "Hold - RSI 51, MACD bullish, NOFX bullish, sentiment neutral", "nofx_score": 0.42857142857142855, "sentiment_score": 0}
+{"date": "2026-03-02", "asset": "ETH", "action": "Hold", "rationale": "Hold - RSI 55, MACD bullish, NOFX bullish, sentiment neutral", "nofx_score": 0.42857142857142855, "sentiment_score": 0}
+{"date": "2026-03-02", "asset": "SOL", "action": "Hold", "rationale": "Hold - RSI 53, MACD bullish, NOFX neutral, sentiment neutral", "nofx_score": -0.14285714285714285, "sentiment_score": 0}
+{"date": "2026-03-02", "asset": "XRP", "action": "Hold", "rationale": "Hold - RSI 41, MACD bearish, NOFX neutral, sentiment neutral", "nofx_score": -0.14285714285714285, "sentiment_score": 0}
+{"date": "2026-03-02", "asset": "DOGE", "action": "Hold", "rationale": "Hold - RSI 44, MACD bearish, NOFX neutral, sentiment neutral", "nofx_score": -0.2857142857142857, "sentiment_score": 0}

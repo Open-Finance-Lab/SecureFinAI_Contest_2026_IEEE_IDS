@@ -7,42 +7,13 @@ weight: 3
 
 ## Submission
 
-### **Model Submission**: https://www.cloud-conf.net/datasec/2026/ids/SecureFinAI.html
+Please submit your solution via the **[SecureFinAI Contest 2026 Submission Form](https://docs.google.com/forms/d/e/1FAIpQLSesmBcwMF4r6zWV6bUgajlDr67pFKCEq65UZNkgsWXhSkMenw/viewform)**. Each team can submit multiple times and we will only use the latest version you submit. Your models and scripts should be accessible and runnable.
 
-Please provide your solution to [TBD](). Each team can submit multiple times and we will only use the latest version you submit. Your models and scripts should be accessible and runnable.
-
-#### **Task I**
-
-TBD
-
-#### **Task II**
-
-TBD
-#### **Task III**
-
-TBD
-
-#### **Task III**
-TBD 
-### **Paper Submission Requirements**:
-
-
+For submission issues, contact: **finrlcontest@gmail.com**
 
 ## Evaluation
 
 For each task, the final ranking of participants will be determined by a weighted combination of model evaluation and paper assessment, with weights of 60% and 40% respectively.
-
-### **Model Evaluation**:
-
-#### **Task I**
-TBD
-
-#### **Task II**
-
-TBD
-#### **Task III**
-
-TBD
 
 ### **Paper Assessment**:
 

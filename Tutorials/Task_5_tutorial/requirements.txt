@@ -1,5 +1,7 @@
 pandas>=2.0.0
 yfinance>=0.2.0
+requests
+python-dateutil
 
 # Add your own dependencies below
 # Examples:

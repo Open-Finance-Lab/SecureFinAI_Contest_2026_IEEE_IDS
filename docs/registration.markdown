@@ -12,7 +12,7 @@ weight: 2
 * **Starter-Kit Release**: Jan 30, 2026
 * **Paper Submission Deadline**: March 10, 2026 (the submission system is left open until March 22, 2026)
 * **Paper Camera Ready Deadline**: Apr 1, 2026
-* **Solution Submission Deadline**: Apr 20, 2026
+* **Solution Submission Deadline**: Apr 26, 2026
 
 * **Winner Notification**: May 5, 2026 and during conference
 * **Winner Announcement**: During conference

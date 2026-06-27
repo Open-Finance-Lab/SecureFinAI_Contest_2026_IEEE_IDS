@@ -1,4 +1,4 @@
-# SecureFinAI Contest 2026
+# SecureFinAI Contest 2026 at IEEE IDS
 This repository contains the starter kit and tutorials for the SecureFinAI Contest 2026.
 
 ## Outline
